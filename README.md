@@ -1,0 +1,2 @@
+# aplicacion-de-frases
+Sistema  de Frases Motivacionales o Deportivas o de Famosos (personajes) Tienen que ser 25 frases La frases deberán escucharse  Las frases serán de tipo  random El sistema deberá poder registrar usuarios usando Firebase y su validación vía mail El sistema deberá tener su parte de acceso a usuario registrado En menú principal deberá tener acceso a PDFś que serán: Aviso de Privacidad y Manual de uso de tu sistema El sistema deberá tener estar arreglado  y manejado con la parte visual Bosquejo del sistema (foto, post it, hojas, etc.)
